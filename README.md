@@ -2,7 +2,7 @@
 
 ## URLs
 
-- WikiFood: https://cs50-wikifood.herokuapp.com/ (if first time, refresh so the page wakes up).
+- WikiFood: https://cs50-wikifood.herokuapp.com/
 
 - NextEventer: https://nexteventer.vercel.app/
 
