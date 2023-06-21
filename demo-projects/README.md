@@ -2,12 +2,12 @@
 
 ## URLs
 
-- Worldwide Meetups: https://worldwidemeetups.herokuapp.com/
+-   Worldwide Meetups: https://worldwidemeetups.vercel.app
 
-- Crudemon: https://crudemon.herokuapp.com/
+-   Crudemon: https://crudemon.vercel.app
 
 ## Repositories
 
-- Worldwide Meetups: https://github.com/matias-fuentes/WorldwideMeetups
+-   Worldwide Meetups: https://github.com/matias-fuentes/WorldwideMeetups
 
-- Crudemon: https://github.com/matias-fuentes/Crudemon
+-   Crudemon: https://github.com/matias-fuentes/Crudemon
