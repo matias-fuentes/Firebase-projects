@@ -1,4 +1,4 @@
-# Published projects
+# Published projects using Firebase
 
 ## URLs
 
